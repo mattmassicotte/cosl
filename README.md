@@ -23,7 +23,7 @@ But here's the thing. Some stuff I made is useful to you. In exchange for that, 
 
 Brace yourself, because here's where things get weird. I think legal text is fucking ridiculous. It is astounding to me that human society is based on writing and then interpreting natural language. I write software, I know this shit isn't easy. But, what we do is just bananas. Not to mention that it barely functions at all, forget functions correctly. I want [computational law](https://en.wikipedia.org/wiki/Computational_law), and I want it yesterday.
 
-Sooo, I'm just going to not write any legalese. I know there has to be some eventually. Just because I don't **like** our legal system doesn't mean I can ignore it. But I also don't have to go quietly. But it's also possible everyone will just think this is stupid.
+Sooo, I'm just going to not write any legalese. I know there has to be some eventually. Just because I don't **like** our legal system doesn't mean I can ignore it. But I also don't have to go quietly. And I wasn't sure it would be worth the effort because it's possible everyone will just think this is stupid.
 
 If you happen to be a lawyer that things this is an interesting concept and isn't completely offended by my preceding tirade, I'd love your help.
 
