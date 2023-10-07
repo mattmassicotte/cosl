@@ -37,22 +37,22 @@ The purpose of the COSL is to allow open source software to be made while also:
 
 ### Warranty?
 
-Lol no
+Lol **no**
 
 ### Can I use this software?
 
-For personal projects (ie no distribution): yes
-For open source projects: yes
-For commercial projects with < 3 developers: yes
-For commercial projects with >= 3 developers: yes but only as long as you support the project financially
+- For personal projects (ie no distribution): **yes**
+- For open source projects: **yes**
+- For commercial projects with < 3 developers: **yes**
+- For commercial projects with >= 3 developers: **yes but** only as long as you support the project financially
 
 ### Can I distribute this software?
 
-Yes. But if you are distributing in source form, it must retain a reference to the project's repository.
+**Yes**. But if you are distributing in source form, it **must** retain a reference to the project's repository.
 
 ### Can I modify this software?
 
-Only when used in closed-source projects. You may not modify the source for use in another open source project.
+**Only** when used in closed-source projects. You may **not** modify the source for use in another open source project.
 
 ### Endorsements?
 
