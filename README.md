@@ -52,7 +52,10 @@ Lol **no**
 
 ### Can I modify this software?
 
-**Only** when used in closed-source projects. You may **not** modify the source for use in another open source project.
+- For closed-source projects: **yes**
+- For open-source projets: **no**
+
+However, forks are allowed, of course! But, **not** if the fork intentionally diverges from the main repo as a new project.
 
 ### Endorsements?
 
