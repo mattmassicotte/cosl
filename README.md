@@ -13,7 +13,7 @@ I like sharing solutions to problems. But, I want something in exchange! I want 
 
 There are really two main classes of problems I've run into. The first, which is well-known, is when a commercial entity benefits from open source work without providing any kind of contribution back to the project. This is bullshit.
 
-But, the second is within open source projects. It is when one projet takes code, potentially even just a little, from another. I think can be inherently anti-collaborative.
+But, the second is within open source projects. It is when one project takes code, potentially even just a little, from another. I think can be inherently anti-collaborative.
 
 Ok yeah, sometimes a project has just been abandoned. Or, the project has some technical or philosophical issues that don't fit with what you are going for. Maybe you just want to try to do your own thing! I think these can be ok, **provided** you **also** make real attempts at working together.
 
@@ -25,7 +25,7 @@ Brace yourself, because here's where things get weird. I think legal text is fuc
 
 Sooo, I'm just going to not write any legalese. I know there has to be some eventually. Just because I don't **like** our legal system doesn't mean I can ignore it. But I also don't have to go quietly. And I wasn't sure it would be worth the effort because it's possible everyone will just think this is stupid.
 
-If you happen to be a lawyer that things this is an interesting concept and isn't completely offended by my preceding tirade, I'd love your help.
+If you happen to be a lawyer that thinks this is an interesting concept and isn't completely offended by my preceding tirade, I'd love your help.
 
 ## The License
 
