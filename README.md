@@ -44,7 +44,7 @@ Lol **no**
 - For personal projects (ie no distribution): **yes**
 - For open source projects: **yes**
 - For commercial projects with < 3 developers: **yes**
-- For commercial projects with >= 3 developers: **yes but** only as long as you support the project financially
+- For commercial projects with >= 3 developers: **yes but** only as long as you support the project financially; financial amount of each contribution, as well as the identity of the entity supporting the project, can be disclosed by the mantainers.
 
 ### Can I distribute this software?
 
