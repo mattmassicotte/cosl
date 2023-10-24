@@ -27,6 +27,10 @@ Sooo, I'm just going to not write any legalese. I know there has to be some even
 
 If you happen to be a lawyer that thinks this is an interesting concept and isn't completely offended by my preceding tirade, I'd love your help.
 
+### Related Efforts
+
+- [Fair Source License](https://fair.io)
+
 ## The License
 
 The purpose of the COSL is to allow open source software to be made while also:
@@ -44,7 +48,7 @@ Lol **no**
 - For personal projects (ie no distribution): **yes**
 - For open source projects: **yes**
 - For commercial projects with < 3 developers: **yes**
-- For commercial projects with >= 3 developers: **yes but** only as long as you support the project financially; financial amount of each contribution, as well as the identity of the entity supporting the project, can be disclosed by the mantainers.
+- For commercial projects with >= 3 developers: **yes but** only as long as you support the project financially; financial amount of each contribution, as well as the identity of the entity supporting the project, can be disclosed by the maintainers.
 
 ### Can I distribute this software?
 
