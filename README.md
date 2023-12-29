@@ -30,6 +30,7 @@ If you happen to be a lawyer that thinks this is an interesting concept and isn'
 ### Related Efforts
 
 - [Fair Source License](https://fair.io)
+- [The Anti-Capitalist Software License](https://anticapitalist.software)
 
 ## The License
 
